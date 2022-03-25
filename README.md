@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rajdeep</h1>
+<h1 align="center">Rajdeep Ghosh | RUMBLE</h1>
 <h3 align="center">An upcoming programmer from IN</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rumbleftw&label=Profile%20views&color=00ff00&style=flat" alt="rumbleftw" /> </p>
 
-- 📫 How to reach me **007rajdeepghosh@gmail.com**
+- mail@ **007rajdeepghosh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

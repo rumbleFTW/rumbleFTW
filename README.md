@@ -3,18 +3,54 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rumbleftw&label=Profile%20views&color=00ff00&style=flat" alt="rumbleftw" /> </p>
 
-- mail@ **007rajdeepghosh@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rumbleftw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajdeep ghosh" height="30" width="40" /></a>
-<a href="https://kaggle.com/rumbleftw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rumbleftw" height="30" width="40" /></a>
-<a href="https://instagram.com/xx_rumble_xx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xx_rumble_xx" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rumbleftw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rumbleftw" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/aH8Unn6cAz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/aH8Unn6cAz" height="30" width="40" /></a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h1 align="center">Languages: </h1>
+<p align="center">
+  <img id="cpp" src="https://media.giphy.com/media/ZihbWIBPZIdn9izsI1/giphy.gif" width="100">
+  <img id="py" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+  <img id="rust" src="https://intro.rustbridge.com/img/ferris.gif" width="300">
+  <img id="js" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rumbleftw&show_icons=true&theme=onedark&locale=en&layout=compact" alt="rumbleftw" /></p>
+<h1 align="center">Libraries/Frameworks: </h1>
+<p align="center">
+  <img id="torch" src="https://media.giphy.com/media/8eulZm5OYnM8hdjlHb/giphy.gif" width="100">
+  <img id="tf" src="https://media.giphy.com/media/BtUG0yeT6pICwdBfxA/giphy.gif" width="100">
+  <img id="opencv" src="https://media.giphy.com/media/5tW1VWpaKjfzz1d0gF/giphy.gif" width="100">
+  <img id="react" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+</p>
+
+<br><br>
+
+<h1 align="center">Tools: </h1>
+<p align="center">
+  <img id="vs" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+  <img id="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+  <img id="docker" src="https://media.giphy.com/media/GudLvkVqOqkT7l4vKC/giphy.gif" width="100">
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p align="center">
+<a href="https://www.linkedin.com/in/rumbleftw/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="20" width="20" /></a>
+<a href="https://leetcode.com/rumbleFTW/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="dephraiim" height="20" width="20" /></a>
+<a href="https://www.kaggle.com/rumbleftw/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="dephraiim" height="20" width="20" /></a>
+<a href="https://www.instagram.com/xx_rumble_xx/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dephraiim" height="20" width="20" /></a>
+</p>
+<br>
+<br>
+<br>

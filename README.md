@@ -16,7 +16,6 @@
 <p align="center">
   <img id="cpp" src="https://media.giphy.com/media/ZihbWIBPZIdn9izsI1/giphy.gif" width="100">
   <img id="py" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-  <img id="rust" src="https://intro.rustbridge.com/img/ferris.gif" width="300">
   <img id="js" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">  
 </p>
 

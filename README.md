@@ -17,7 +17,7 @@ class Developer:
         self.interests = ['music', 'spirituality', 'motorcycles']
 
     def about(self):
-        print("Hey! I am Rajdeep Ghosh. I love to code and open-source~)
+        print("Hey! I am Rajdeep Ghosh. I love to code and open-source")
 
 if __name__ == '__main__':
     me = Developer()

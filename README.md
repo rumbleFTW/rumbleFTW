@@ -14,10 +14,11 @@ class Developer:
         self.age = 21
         self.location = "Kolkata, India"
         self.programming_languages = ["Python", "Rust", "C++", "Java"]
-        self.interests = ['music', 'spirituality', 'motorcycles']
+        self.interests = ['music', 'spirituality', 'motorcycles', 'literature']
 
     def about(self):
-        print("Hey! I am Rajdeep Ghosh. I love to code and open-source")
+        print("Hey! I am Rajdeep Ghosh. I love to build stuff!")
+
 
 if __name__ == '__main__':
     me = Developer()

@@ -11,7 +11,7 @@ class Developer:
 
     def __init__(self):
         self.name = "Rajdeep Ghosh"
-        self.age = 21
+        self.age = 22
         self.location = "Kolkata, India"
         self.programming_languages = ["🐍", "🦀", "🇨", "🍵"]
 

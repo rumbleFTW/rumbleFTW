@@ -13,6 +13,7 @@ class Developer:
         self.name = "Rajdeep Ghosh"
         self.age = 22
         self.location = "Kolkata, India"
+        self.profession = "ML Engineer"
         self.programming_languages = ["🐍", "🦀", "🇨", "🍵"]
 
     def about(self):

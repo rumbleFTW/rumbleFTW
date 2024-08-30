@@ -27,12 +27,12 @@ if __name__ == '__main__':
 ## **Tools and technologies**
 <p align="left">
   <img id="torch" src="https://media.giphy.com/media/8eulZm5OYnM8hdjlHb/giphy.gif" width="100">
+  <img id="docker" src="https://media.giphy.com/media/GudLvkVqOqkT7l4vKC/giphy.gif" width="100">
+  <img id="vs" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+  <img id="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
   <img id="tf" src="https://media.giphy.com/media/BtUG0yeT6pICwdBfxA/giphy.gif" width="100">
   <img id="opencv" src="https://media.giphy.com/media/5tW1VWpaKjfzz1d0gF/giphy.gif" width="100">
   <img id="react" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
-  <img id="vs" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-  <img id="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-  <img id="docker" src="https://media.giphy.com/media/GudLvkVqOqkT7l4vKC/giphy.gif" width="100">
 </p>
 
 ## **Some projects**

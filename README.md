@@ -13,15 +13,37 @@ class Developer:
         self.name = "Rajdeep Ghosh"
         self.age = 22
         self.location = "Kolkata, India"
-        self.programming_languages = ["🐍", "🦀", "🇨", "🍵"]
+        self.programming_languages = ["🐍 Python", "🦀 Rust", "🇨 C", "☕ Java"]
+        self.hobbies = ["🎸 Playing Guitar", "📷 Photography", "🚴 Cycling"]
 
     def about(self):
-        print("Hey! I am Rajdeep Ghosh. I love to build stuff!")
+        print(f"Hey! I am {self.name}. I love to build stuff!")
+        print(f"I'm {self.age} years old and based in {self.location}.")
+        print("\n🌐 Programming Languages I Enjoy:")
+        for language in self.programming_languages:
+            print(f" - {language}")
+        print("\n🎯 Hobbies:")
+        for hobby in self.hobbies:
+            print(f" - {hobby}")
+        print("\nHere's a fun fact:")
+        self.fun_fact()
+
+    def fun_fact(self):
+        print("Did you know? The first computer programmer was Ada Lovelace!")
+
+    def ascii_art(self):
+        art = r"""
+         (\_/)
+         ( •_•)
+        / >🌐   Coding the world!
+        """
+        print(art)
 
 
 if __name__ == '__main__':
     me = Developer()
     me.about()
+    me.ascii_art()
 ```
 
 ## **Tools and technologies**

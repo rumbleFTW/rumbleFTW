@@ -25,11 +25,6 @@ class Developer:
         print("\n🎯 Hobbies:")
         for hobby in self.hobbies:
             print(f" - {hobby}")
-        print("\nHere's a fun fact:")
-        self.fun_fact()
-
-    def fun_fact(self):
-        print("Did you know? The first computer programmer was Ada Lovelace!")
 
     def ascii_art(self):
         art = r"""

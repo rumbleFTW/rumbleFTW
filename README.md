@@ -26,19 +26,10 @@ class Developer:
         for hobby in self.hobbies:
             print(f" - {hobby}")
 
-    def ascii_art(self):
-        art = r"""
-         (\_/)
-         ( •_•)
-        / >🌐   Coding the world!
-        """
-        print(art)
-
 
 if __name__ == '__main__':
     me = Developer()
     me.about()
-    me.ascii_art()
 ```
 
 ## **Tools and technologies**

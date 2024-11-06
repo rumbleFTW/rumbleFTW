@@ -13,7 +13,7 @@ class Developer:
         self.name = "Rajdeep Ghosh"
         self.age = 22
         self.location = "Kolkata, India"
-        self.programming_languages = ["🐍 Python", "🦀 Rust", "🇨 C", "☕ Java"]
+        self.programming_languages = ["🐍 Python", "🦀 Rust", "Typescript",  "🇨 C", "☕ Java"]
         self.hobbies = ["🎸 Playing Guitar", "🎮 Gaming", "🏔️🚶🏻 Trekking"]
 
     def about(self):

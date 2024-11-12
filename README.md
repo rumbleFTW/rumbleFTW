@@ -14,7 +14,7 @@ class Developer:
         self.age = 22
         self.location = "Kolkata, India"
         self.programming_languages = ["🐍 Python", "🦀 Rust", "Typescript",  "🇨 C", "☕ Java"]
-        self.hobbies = ["🎸 Playing Guitar", "🎮 Gaming", "🏔️🚶🏻 Trekking"]
+        self.hobbies = ["🎸 Playing Guitar", "🎮 Gaming", "🏔️🚶🏻 Trekking", "🏋🏻 Gymming"]
 
     def about(self):
         print(f"Hey! I am {self.name}. I love to build stuff!")

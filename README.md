@@ -1,37 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rumbleftw&label=Profile%20views&color=00ff00&style=flat" alt="rumbleftw" /> </p>
 
-## **About me**
-
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
-class Developer:
-
-    def __init__(self):
-        self.name = "Rajdeep Ghosh"
-        self.age = 22
-        self.location = "Kolkata, India"
-        self.programming_languages = ["🐍 Python", "🦀 Rust", "Typescript",  "🇨 C", "☕ Java"]
-        self.hobbies = ["🎸 Playing Guitar", "🎮 Gaming", "🏔️🚶🏻 Trekking", "🏋🏻 Gymming"]
-
-    def about(self):
-        print(f"Hey! I am {self.name}. I love to build stuff!")
-        print(f"I'm {self.age} years old and based in {self.location}.")
-        print("\n🌐 Programming Languages I Enjoy:")
-        for language in self.programming_languages:
-            print(f" - {language}")
-        print("\n🎯 Hobbies:")
-        for hobby in self.hobbies:
-            print(f" - {hobby}")
-
-
-if __name__ == '__main__':
-    me = Developer()
-    me.about()
-```
-
 ## **Tools and technologies**
 <p align="left">
   <img id="torch" src="https://media.giphy.com/media/8eulZm5OYnM8hdjlHb/giphy.gif" width="100">

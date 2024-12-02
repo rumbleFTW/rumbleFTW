@@ -33,5 +33,4 @@
 ## **Socials**
 
 <a href="https://www.linkedin.com/in/rumbleftw/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="20" width="20" /></a>
-<a href="https://leetcode.com/rumbleFTW/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="dephraiim" height="20" width="20" /></a>
 <a href="https://www.kaggle.com/rumbleftw/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="dephraiim" height="20" width="20" /></a>
